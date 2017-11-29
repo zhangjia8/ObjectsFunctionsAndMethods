@@ -50,7 +50,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #                circle.center()    circle.radius()   circle.fill_color()
 #
 #     f. What does a RoseWindow RENDER method do?
-#            Draw ALL the objects attached to this window
+#            Draw ALL the objects attached to the window
 #
 #     g. When is a RoseWindow close_on_mouse_click method call necessary?  Why?
 #  At the end of a function. Waits for the user to press the mouse, then closes the window and shows the next function.
